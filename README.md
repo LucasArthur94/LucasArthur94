@@ -1,6 +1,6 @@
 # Hello visitor, welcome to my profile!
 
-## My name is Lucas Arthur Felgueiras, i'm a Brazilian Fullstack Software Engineer
+## My name is Lucas Arthur Felgueiras, i'm a Brazilian Fullstack Software Engineer and Tech Lead
 
 <center>
 
@@ -69,8 +69,16 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 #### About
 
+##### Role: Tech Lead
+
 - [Liv Up Homepage][livup]
-- Duration: 02/05/2018 - 31/08/2018 | 02/02/2019 - Now
+- Duration: 12/04/2021 - Now
+- Scope: Working at Retention team, focused to build long term relationship with clients
+
+##### Role: Software Engineer
+
+- [Liv Up Homepage][livup]
+- Duration: 02/05/2018 - 31/08/2018 | 02/02/2019 - 12/04/2021
 - Scope: Working at E-commerce Web team, with scalable solutions for many clients.
 
 #### Technologies
@@ -99,6 +107,7 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 ##### Frontend Technologies
 
 <img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="nextjs" src="https://img.shields.io/badge/NextJS%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 <img alt="styled-components" src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 <img alt="react-router" src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" />
