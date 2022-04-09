@@ -1,6 +1,6 @@
 # Hello visitor, welcome to my profile!
 
-## My name is Lucas Arthur Felgueiras, i'm a Brazilian Fullstack Software Engineer and Tech Lead
+## My name is Lucas Arthur Felgueiras, i'm a Brazilian Fullstack Software Engineer, Tech Lead and Engineering Manager
 
 <center>
 
@@ -8,17 +8,13 @@
 
 </center>
 
-## Contribution Status
+<!-- ## Contribution Status
 
-<img alt="LucasArthur94's GitHub Stats" src="https://github-readme-stats-nwcoc2qo4.vercel.app/api?username=lucasarthur94&show_icons=true&hide_border=true&theme=monokai&count_private=true&show_icons=true&hide=issues,contribs" />
-
-## Now Playing
-
-[![Spotify](https://spotify-player-eight.vercel.app/api/spotify)](https://open.spotify.com/user/lucas_arthur_94)
+<img alt="LucasArthur94's GitHub Stats" src="https://github-readme-stats-nwcoc2qo4.vercel.app/api?username=lucasarthur94&show_icons=true&hide_border=true&theme=monokai&count_private=true&show_icons=true&hide=issues,contribs" /> -->
 
 ## About me
 
-<details>
+<details open>
 <summary>See more</summary>
 
 I consider myself a determined person, focused on goals and willing to learn always. I divide my time between family, my hobbies and studies. I dream in the future to undertake and change the world, a little a day, for that, I try to extract everything I can from the opportunities offered.
@@ -30,7 +26,7 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 ## Educational formation
 
-<details>
+<details open>
 <summary>See more</summary>
 
 ### Polytechnical School of São Paulo University (EP-USP)
@@ -43,7 +39,7 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 #### Technologies
 
-<details>
+<details open>
 <summary>See more</summary>
 
 <img alt="python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -62,17 +58,74 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 ## Professional experiences
 
-<details>
+<details open>
 <summary>See more</summary>
+
+### Revelo
+
+#### About
+
+##### Role: Engineering Manager
+
+- [Revelo Homepage][revelo]
+- Duration: 11/04/2022 - Now
+- Scope: Working at Companies Brazil team
+
+#### Technologies
+
+<details open>
+<summary>See more</summary>
+
+##### Main Technologies
+
+<img alt="ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+<img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+
+##### Fullstack Technologies
+
+<img alt="rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+
+##### Frontend Technologies
+
+<img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img alt="sass" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+##### Database and Infrastructure Technologies
+
+<img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/docker-%232496ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+
+##### Other Technologies
+
+<img alt="ubuntu" src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+<img alt="github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+
+</details>
 
 ### Liv Up
 
 #### About
 
+##### Role: Engineering Manager
+
+- [Liv Up Homepage][livup]
+- Duration: 03/03/2022 - 01/04/2022
+- Scope: Working at Activation team, focused to acquire new clients, focused on website
+
+##### Role: Tech Lead and Engineering Manager
+
+- [Liv Up Homepage][livup]
+- Duration: 01/08/2021 - 02/03/2022
+- Scope: Working at Retention team, focused to build long term relationship with clients
+
 ##### Role: Tech Lead
 
 - [Liv Up Homepage][livup]
-- Duration: 12/04/2021 - Now
+- Duration: 12/04/2021 - 31/07/2021
 - Scope: Working at Retention team, focused to build long term relationship with clients
 
 ##### Role: Software Engineer
@@ -83,7 +136,7 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 #### Technologies
 
-<details>
+<details open>
 <summary>See more</summary>
 
 ##### Main Technologies
@@ -140,7 +193,7 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 #### Technologies
 
-<details>
+<details open>
 <summary>See more</summary>
 
 ##### Main Technologies
@@ -184,7 +237,7 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 #### Technologies
 
-<details>
+<details open>
 <summary>See more</summary>
 
 ##### Main Technologies
@@ -227,7 +280,7 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 ## You can find me at
 
-<details>
+<details open>
 <summary>See more</summary>
 
 ### Work contacts
@@ -252,7 +305,7 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 ## About README
 
-<details>
+<details open>
 <summary>See more</summary>
 
 [Credits for nice README](https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b)
@@ -265,6 +318,7 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 [codus]: https://www.codus.com.br/
 [livup]: https://www.livup.com.br/
 [epusp]: https://www.poli.usp.br/
+[revelo]: https://revelo.io/
 
 <!-- Tech contacts -->
 
