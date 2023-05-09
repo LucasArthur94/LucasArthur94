@@ -65,11 +65,17 @@ As hobbies, in the vacant hours, I am interested in the areas of Games, Music, P
 
 #### About
 
-##### Role: Engineering Manager
+##### Role: Tech Lead
 
 - [Revelo Homepage][revelo]
-- Duration: 11/04/2022 - Now
-- Scope: Working at Companies Brazil team
+- Duration: 03/11/2022 - Now
+- Scope: Working at Staff Management team, focused to take care of allocated professionals on US-based companies
+
+##### Role: Engineering Manager and Tech Lead
+
+- [Revelo Homepage][revelo]
+- Duration: 11/04/2022 - 02/11/2022
+- Scope: Working at Staff Management team, focused to take care of allocated professionals on US-based companies
 
 #### Technologies
 
